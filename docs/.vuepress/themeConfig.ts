@@ -6,7 +6,7 @@ export default defineThemeConfig({
   hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
 
   author: {
-    name: "Mr.Hope",
+    name: "IceCream",
     url: "https://mrhope.site",
   },
 

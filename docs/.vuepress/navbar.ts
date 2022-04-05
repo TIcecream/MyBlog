@@ -10,11 +10,10 @@ export default defineNavbarConfig([
     prefix: "/posts/",
     children: [
       {
-        text: "文章 1-4",
+        text: "Spring Boot学习",
         icon: "edit",
-        prefix: "article/",
         children: [
-          { text: "文章 1", icon: "edit", link: "article1" },
+          { text: "SpringSecurity学习", icon: "edit", link: "article/SpringBoot/SpringSecurity" },
           { text: "文章 2", icon: "edit", link: "article2" },
           "article3",
           "article4",
